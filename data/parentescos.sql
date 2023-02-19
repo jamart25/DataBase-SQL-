@@ -1,0 +1,10 @@
+insert into parentescos (tipo_parentesco) values (true);
+insert into parentescos (tipo_parentesco) values (false);
+insert into parentescos (tipo_parentesco) values (true);
+insert into parentescos (tipo_parentesco) values (true);
+insert into parentescos (tipo_parentesco) values (false);
+insert into parentescos (tipo_parentesco) values (false);
+insert into parentescos (tipo_parentesco) values (false);
+insert into parentescos (tipo_parentesco) values (false);
+insert into parentescos (tipo_parentesco) values (false);
+insert into parentescos (tipo_parentesco) values (false);

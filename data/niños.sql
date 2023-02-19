@@ -1,0 +1,10 @@
+insert into niños (nombre_niño, apellido_niño, coordenadas_niño, fecha_nacimiento, NSS_elfo) values ('Tammy', 'Isoldi', '21° 42′ N, 71° 17′ W', '2016-06-14', '126-99-1355');
+insert into niños (nombre_niño, apellido_niño, coordenadas_niño, fecha_nacimiento, NSS_elfo) values ('Prissie', 'Adaway', '84° 23′ N, 71° 12′ W', '2014-09-02', '812-04-3471');
+insert into niños (nombre_niño, apellido_niño, coordenadas_niño, fecha_nacimiento, NSS_elfo) values ('Agnesse', 'Maps', '27° 33′ N, 71° 52′ W', '2016-12-11', '798-57-6227');
+insert into niños (nombre_niño, apellido_niño, coordenadas_niño, fecha_nacimiento, NSS_elfo) values ('Inez', 'Odeson', '43° 23′ N, 43° 12′ W', '2015-07-19', '204-01-4181');
+insert into niños (nombre_niño, apellido_niño, coordenadas_niño, fecha_nacimiento, NSS_elfo) values ('Corabella', 'Askham', '64° 43′ N, 72° 12′ W', '2015-02-28', '509-67-6610');
+insert into niños (nombre_niño, apellido_niño, coordenadas_niño, fecha_nacimiento, NSS_elfo) values ('Ferrell', 'Liggett', '64° 41′ N, 82° 22′ W', '2014-05-02', '105-31-2897');
+insert into niños (nombre_niño, apellido_niño, coordenadas_niño, fecha_nacimiento, NSS_elfo) values ('Culver', 'Gear', '43° 23′ N, 43° 12′ W', '2020-07-30', '263-84-5812');
+insert into niños (nombre_niño, apellido_niño, coordenadas_niño, fecha_nacimiento, NSS_elfo) values ('Elka', 'Gillow', '14° 23′ N, 72° 12′ W', '2017-10-04', '462-51-9048');
+insert into niños (nombre_niño, apellido_niño, coordenadas_niño, fecha_nacimiento, NSS_elfo) values ('Aimee', 'Stenhouse', '39° 17′ N, 76° 36′ W', '2014-12-24', '353-64-3323');
+insert into niños (nombre_niño, apellido_niño, coordenadas_niño, fecha_nacimiento, NSS_elfo) values ('Reese', 'Alliott', '39° 17′ N, 76° 36′ W', '2013-04-03', '507-30-4250');
